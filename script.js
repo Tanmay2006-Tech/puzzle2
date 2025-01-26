@@ -1,4 +1,4 @@
-var images = ['https://i.pinimg.com/736x/07/02/fd/0702fd2babfeee884398b480c504f2aa.jpg'];
+var images = ['https://in.pinterest.com/pin/96334879527374097/'];
 
 var currentIndex = 0;
 var totalClicks = 0;
